@@ -24,7 +24,8 @@ def flower(x,y,r,color):
 
 d.rounded_rectangle((70,70,W-70,H-70),radius=55,outline='#d7dfcd',width=4)
 flower(150,175,58,'#e9a9bc'); flower(1450,175,58,'#ebbd66')
-center('FESTA DA PRIMAVERA',140,52,bold=True)
+center('FESTA DA PRIMAVERA 2026',120,50,bold=True)
+center('Igreja Batista Central de São João de Meriti • IBC Meriti',195,30)
 center('Para sua comodidade,',255,48)
 center('simule suas compras aqui!',325,78,bold=True)
 center('Escolha com calma o que você e sua família',455,43)
