@@ -24,3 +24,7 @@ Para atualizar o cardápio publicado, edite `index.html`, faça commit e envie p
 https://maxuel82.github.io/FestaPrimaveraIBC2026/
 
 No caixa, a troca pode ser feita com dinheiro, cartão ou Pix. Depois, use o dinheirinho nas barracas. A simulação não é um pedido nem uma reserva.
+
+## Cardápio em imagem e QR Code
+
+A página inicial oferece acesso ao cardápio completo em imagem. O arquivo QRCodeCardapioFestaPrimavera.png aponta para o simulador on-line e pode ser usado na divulgação.
