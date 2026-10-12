@@ -6,6 +6,8 @@ Este repositório contém um cardápio e simulador de consumo para celulares, pu
 
 ## Alterações
 
+- A cada nova publicação, incremente a versão exibida no rodapé em uma unidade centesimal (1.00 → 1.01 → 1.02) e atualize a data e hora no fuso America/Sao_Paulo (Brasília), incluindo o atributo datetime. Faça isso uma vez por publicação, junto com as alterações, antes do commit e envio ao GitHub.
+
 - Responda ao usuário em português do Brasil.
 - Edite `index.html` para alterar o site. Preserve o layout para celulares, as quantidades, o resumo, o total e o compartilhamento pelo WhatsApp.
 - A simulação não envia pedidos nem reserva produtos. Preserve essa informação e o fluxo de troca por dinheirinho no caixa.
