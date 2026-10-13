@@ -27,3 +27,11 @@ Este repositório contém um cardápio e simulador de consumo para celulares, pu
 ## GitHub e celular
 
 O repositório é `maxuel82/FestaPrimaveraIBC2026`, com branch principal `main`. Para trabalhar com o computador desligado, selecione no celular um ambiente publicado do Codex Cloud associado a este repositório. Alterações só ficam disponíveis no GitHub quando salvas em commit e enviadas. Alterações integradas em `main` podem atualizar o site no GitHub Pages.
+
+### Envio pela nuvem quando o terminal falhar
+
+- Se o terminal falhar ao conectar ao proxy, verifique o conector do GitHub disponível na sessão antes de concluir que não é possível enviar alterações.
+- Confira o repositório e a permissão de escrita pelo conector. Leia o arquivo na branch `main` e use seu SHA atual ao atualizar arquivos de texto, evitando sobrescrever alterações de outras conversas.
+- Use o conector para enviar as alterações autorizadas; esse caminho não depende do computador ligado. Para alterações locais, compare com a versão remota atual antes do envio.
+- Após o envio, releia o arquivo no GitHub e informe o commit criado. Diferencie envio confirmado ao repositório de publicação confirmada no GitHub Pages; não afirme que o site foi atualizado sem verificar a publicação.
+- Se faltarem contexto ou alterações solicitadas em outra conversa, peça o conteúdo ao usuário; não presuma acesso ao histórico de outras tarefas.
