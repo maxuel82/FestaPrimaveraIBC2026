@@ -1,6 +1,6 @@
 {
-  "versao": "1.09",
-  "atualizadoEm": "2026-10-14T22:35:56-03:00",
+  "versao": "1.10",
+  "atualizadoEm": "2026-10-14T22:54:52-03:00",
   "categorias": [
     {
       "id": "salgados",
@@ -20,7 +20,7 @@
           "id": "coxinha",
           "nome": "Coxinha",
           "preco": 8,
-          "precoPromocional": 7,
+          "precoPromocional": null,
           "esgotado": false,
           "observacao": ""
         },
@@ -45,7 +45,7 @@
           "nome": "Empada",
           "preco": 8,
           "precoPromocional": null,
-          "esgotado": true,
+          "esgotado": false,
           "observacao": ""
         },
         {
