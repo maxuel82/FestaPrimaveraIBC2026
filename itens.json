@@ -1,6 +1,6 @@
 {
-  "versao": "1.10",
-  "atualizadoEm": "2026-10-14T22:54:52-03:00",
+  "versao": "1.11",
+  "atualizadoEm": "2026-10-14T22:58:19-03:00",
   "categorias": [
     {
       "id": "salgados",
@@ -164,6 +164,14 @@
           "id": "tortas-fatia",
           "nome": "Tortas (fatia)",
           "preco": 12,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "bala-de-coco",
+          "nome": "Bala de coco",
+          "preco": 2,
           "precoPromocional": null,
           "esgotado": false,
           "observacao": ""
