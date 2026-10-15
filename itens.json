@@ -1,0 +1,326 @@
+{
+  "versao": "1.08",
+  "atualizadoEm": "2026-10-14T22:06:22-03:00",
+  "categorias": [
+    {
+      "id": "salgados",
+      "nome": "Salgados",
+      "icone": "🥟",
+      "cor": "#ad4a19",
+      "itens": [
+        {
+          "id": "espetinho-de-frango",
+          "nome": "Espetinho de frango",
+          "preco": 10,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "coxinha",
+          "nome": "Coxinha",
+          "preco": 8,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "bolinho-de-aipim",
+          "nome": "Bolinho de aipim",
+          "preco": 8,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "pastel-de-forno",
+          "nome": "Pastel de forno",
+          "preco": 8,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "empada",
+          "nome": "Empada",
+          "preco": 8,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "x-burguer",
+          "nome": "X-Burguer",
+          "preco": 13,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "x-tudo-2-carnes",
+          "nome": "X-Tudo 2 carnes",
+          "preco": 18,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "batata-frita",
+          "nome": "Batata frita",
+          "preco": 12,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "pastel-frito-sabores",
+          "nome": "Pastel frito (sabores)",
+          "preco": 10,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "pizza",
+          "nome": "Pizza",
+          "preco": 7,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "cachorro-quente",
+          "nome": "Cachorro-quente",
+          "preco": 10,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "milho-na-espiga",
+          "nome": "Milho na espiga",
+          "preco": 8,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "milho-debulhado",
+          "nome": "Milho debulhado",
+          "preco": 10,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": "Manteiga e sal"
+        },
+        {
+          "id": "milho-debulhado-completo",
+          "nome": "Milho debulhado completo",
+          "preco": 15,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": "Manteiga, sal, orégano, bacon e calabresa"
+        }
+      ]
+    },
+    {
+      "id": "doces",
+      "nome": "Doces",
+      "icone": "🍰",
+      "cor": "#647c24",
+      "itens": [
+        {
+          "id": "brownie",
+          "nome": "Brownie",
+          "preco": 6,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "trufa",
+          "nome": "Trufa",
+          "preco": 4,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "cocada",
+          "nome": "Cocada",
+          "preco": 6,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "bolo-de-aipim",
+          "nome": "Bolo de aipim",
+          "preco": 8,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "tortas-fatia",
+          "nome": "Tortas (fatia)",
+          "preco": 12,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "id": "caldos",
+      "nome": "Caldos",
+      "icone": "🍲",
+      "cor": "#236684",
+      "itens": [
+        {
+          "id": "angu-a-baiana",
+          "nome": "Angu à baiana",
+          "preco": 15,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "aipim-com-carne-seca",
+          "nome": "Aipim com carne seca",
+          "preco": 18,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "bobo-de-camarao",
+          "nome": "Bobó de camarão",
+          "preco": 20,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "mocoto",
+          "nome": "Mocotó",
+          "preco": 18,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "id": "bebidas",
+      "nome": "Bebidas",
+      "icone": "🥤",
+      "cor": "#a33570",
+      "itens": [
+        {
+          "id": "refrigerante-lata",
+          "nome": "Refrigerante lata",
+          "preco": 7,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "refrigerante-2-litros",
+          "nome": "Refrigerante 2 litros",
+          "preco": 15,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "h2oh",
+          "nome": "H2OH",
+          "preco": 10,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "coquinha",
+          "nome": "Coquinha",
+          "preco": 4,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "agua-com-gas",
+          "nome": "Água com gás",
+          "preco": 4,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "agua-sem-gas",
+          "nome": "Água sem gás",
+          "preco": 3,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "guaravita",
+          "nome": "Guaravita",
+          "preco": 3,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        }
+      ]
+    },
+    {
+      "id": "diversao",
+      "nome": "Diversão",
+      "icone": "🎈",
+      "cor": "#ad4a19",
+      "itens": [
+        {
+          "id": "pescaria",
+          "nome": "Pescaria",
+          "preco": 5,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "pula-pula",
+          "nome": "Pula-pula",
+          "preco": 6,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": "6 minutos"
+        },
+        {
+          "id": "toboga",
+          "nome": "Tobogã",
+          "preco": 6,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": "6 minutos"
+        },
+        {
+          "id": "piscina-de-bolinhas",
+          "nome": "Piscina de bolinhas",
+          "preco": 6,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": "Até 5 anos"
+        },
+        {
+          "id": "passaporte-diversao",
+          "nome": "Passaporte diversão",
+          "preco": 25,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": "Todos os brinquedos, sem limite de tempo. Válido por 1 noite. Informe no caixa a quantidade de passaportes para retirar as pulseiras."
+        }
+      ]
+    }
+  ]
+}
