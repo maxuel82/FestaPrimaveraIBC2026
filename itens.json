@@ -1,6 +1,6 @@
 {
-  "versao": "1.12",
-  "atualizadoEm": "2026-10-15T23:26:25-03:00",
+  "versao": "1.13",
+  "atualizadoEm": "2026-10-16T19:07:41-03:00",
   "categorias": [
     {
       "id": "salgados",
@@ -95,30 +95,6 @@
           "precoPromocional": null,
           "esgotado": false,
           "observacao": ""
-        },
-        {
-          "id": "milho-na-espiga",
-          "nome": "Milho na espiga",
-          "preco": 8,
-          "precoPromocional": null,
-          "esgotado": false,
-          "observacao": ""
-        },
-        {
-          "id": "milho-debulhado",
-          "nome": "Milho debulhado",
-          "preco": 10,
-          "precoPromocional": null,
-          "esgotado": false,
-          "observacao": "Manteiga e sal"
-        },
-        {
-          "id": "milho-debulhado-completo",
-          "nome": "Milho debulhado completo",
-          "preco": 15,
-          "precoPromocional": null,
-          "esgotado": false,
-          "observacao": "Manteiga, sal, orégano, bacon e calabresa"
         },
         {
           "id": "pipoca-pequena",
@@ -239,6 +215,38 @@
           "precoPromocional": null,
           "esgotado": false,
           "observacao": ""
+        }
+      ]
+    },
+    {
+      "id": "milho",
+      "nome": "Milho",
+      "icone": "🌽",
+      "cor": "#996800",
+      "itens": [
+        {
+          "id": "milho-na-espiga",
+          "nome": "Milho na espiga",
+          "preco": 8,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "milho-debulhado",
+          "nome": "Milho debulhado",
+          "preco": 10,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": "Manteiga e sal"
+        },
+        {
+          "id": "milho-debulhado-completo",
+          "nome": "Milho debulhado completo",
+          "preco": 15,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": "Manteiga, sal, orégano, bacon e calabresa"
         }
       ]
     },
