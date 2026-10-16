@@ -1,6 +1,6 @@
 {
-  "versao": "1.11",
-  "atualizadoEm": "2026-10-14T22:58:19-03:00",
+  "versao": "1.12",
+  "atualizadoEm": "2026-10-15T23:26:25-03:00",
   "categorias": [
     {
       "id": "salgados",
@@ -119,6 +119,22 @@
           "precoPromocional": null,
           "esgotado": false,
           "observacao": "Manteiga, sal, orégano, bacon e calabresa"
+        },
+        {
+          "id": "pipoca-pequena",
+          "nome": "Pipoca pequena",
+          "preco": 3,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "pipoca-media",
+          "nome": "Pipoca média",
+          "preco": 5,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
         }
       ]
     },
@@ -147,7 +163,7 @@
         {
           "id": "cocada",
           "nome": "Cocada",
-          "preco": 6,
+          "preco": 7,
           "precoPromocional": null,
           "esgotado": false,
           "observacao": ""
@@ -171,7 +187,15 @@
         {
           "id": "bala-de-coco",
           "nome": "Bala de coco",
-          "preco": 2,
+          "preco": 3,
+          "precoPromocional": null,
+          "esgotado": false,
+          "observacao": ""
+        },
+        {
+          "id": "cuscuz",
+          "nome": "Cuscuz",
+          "preco": 7,
           "precoPromocional": null,
           "esgotado": false,
           "observacao": ""
